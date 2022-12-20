@@ -15,3 +15,17 @@ Some usefull LINKS:
 
 
 -vcpkg Crash Course : https://www.youtube.com/watch?v=0h1lC3QHLHU&ab_channel=TroubleChute
+
+
+-cpp lessons : https://www.learncpp.com/
+
+
+-Tetromino rotation sheet : https://imgur.com/a/dvYDyBS
+
+
+-Updating raylib : https://www.youtube.com/watch?v=qZbsHVkOtXc&ab_channel=Yearning
+
+
+-Animations made with ManimCE : https://www.manim.community/
+
+
