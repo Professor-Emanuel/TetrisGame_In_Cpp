@@ -30,3 +30,6 @@ Some usefull LINKS:
 
 
 THE GAME IS NOT COMPLETE!
+
+
+-C++ tutorial : https://www.youtube.com/watch?v=PwuIEMUFUnQ&list=PLqCJpWy5FohcehaXlCIt8sVBHBFFRVWsx&index=2&ab_channel=ChiliTomatoNoodle
